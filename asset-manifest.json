@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/videoroom/static/css/main.5f361e03.chunk.css",
-    "main.js": "/videoroom/static/js/main.9e5a4631.chunk.js",
-    "main.js.map": "/videoroom/static/js/main.9e5a4631.chunk.js.map",
+    "main.js": "/videoroom/static/js/main.03f4fa44.chunk.js",
+    "main.js.map": "/videoroom/static/js/main.03f4fa44.chunk.js.map",
     "runtime-main.js": "/videoroom/static/js/runtime-main.98e31fbd.js",
     "runtime-main.js.map": "/videoroom/static/js/runtime-main.98e31fbd.js.map",
-    "static/js/2.5102f090.chunk.js": "/videoroom/static/js/2.5102f090.chunk.js",
-    "static/js/2.5102f090.chunk.js.map": "/videoroom/static/js/2.5102f090.chunk.js.map",
+    "static/js/2.ba39bebc.chunk.js": "/videoroom/static/js/2.ba39bebc.chunk.js",
+    "static/js/2.ba39bebc.chunk.js.map": "/videoroom/static/js/2.ba39bebc.chunk.js.map",
     "index.html": "/videoroom/index.html",
-    "precache-manifest.3775a743aaa3e4ebd364e3fd2792ffb9.js": "/videoroom/precache-manifest.3775a743aaa3e4ebd364e3fd2792ffb9.js",
+    "precache-manifest.7176a91c0236af77a26066a941fec491.js": "/videoroom/precache-manifest.7176a91c0236af77a26066a941fec491.js",
     "service-worker.js": "/videoroom/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/videoroom/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.5102f090.chunk.js.LICENSE.txt": "/videoroom/static/js/2.5102f090.chunk.js.LICENSE.txt",
+    "static/js/2.ba39bebc.chunk.js.LICENSE.txt": "/videoroom/static/js/2.ba39bebc.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/videoroom/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.98e31fbd.js",
-    "static/js/2.5102f090.chunk.js",
+    "static/js/2.ba39bebc.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.9e5a4631.chunk.js"
+    "static/js/main.03f4fa44.chunk.js"
   ]
 }

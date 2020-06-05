@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef5aeabe2ea3f2efd806313222b77a82",
+    "revision": "d8fa904a7b43cbf2263cf013a4df21a3",
     "url": "/videoroom/index.html"
   },
   {
-    "revision": "d14b870c3bdbac4eab6d",
+    "revision": "78012700d5f1ac4a7be0",
     "url": "/videoroom/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "7e23347f5bf7959860c8",
-    "url": "/videoroom/static/js/2.5102f090.chunk.js"
+    "revision": "a5d2315d17ad8ba057cf",
+    "url": "/videoroom/static/js/2.ba39bebc.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/videoroom/static/js/2.5102f090.chunk.js.LICENSE.txt"
+    "url": "/videoroom/static/js/2.ba39bebc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d14b870c3bdbac4eab6d",
-    "url": "/videoroom/static/js/main.9e5a4631.chunk.js"
+    "revision": "78012700d5f1ac4a7be0",
+    "url": "/videoroom/static/js/main.03f4fa44.chunk.js"
   },
   {
     "revision": "8baf32a3ef328bcc6a37",
