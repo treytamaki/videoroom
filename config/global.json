@@ -10,7 +10,7 @@
   "Proxy" : {
     "settings" :{
       "port"         : "8002",
-      "storage_path" : "src"
+      "storage_path" : "storage"
     }
   }
   
